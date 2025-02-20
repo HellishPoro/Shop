@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.55cff9c4.css",
+    "main.js": "/static/js/main.39a3ea8f.js",
+    "static/media/лого.png": "/static/media/лого.06decf4875d4614f175c.png",
+    "static/media/удаление.png": "/static/media/удаление.bf7729870baf03a0038d.png",
+    "index.html": "/index.html",
+    "main.55cff9c4.css.map": "/static/css/main.55cff9c4.css.map",
+    "main.39a3ea8f.js.map": "/static/js/main.39a3ea8f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.55cff9c4.css",
+    "static/js/main.39a3ea8f.js"
+  ]
+}
